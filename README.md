@@ -1,18 +1,32 @@
 >**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
 
 
-# Project Title
+# Bikeshare Data Analysis
 
-Describe what your project is about and what it does
+This project provides a tool to analyse bikeshare data 
 
 ## Information about how to use your project
 
 This could include:
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+### Getting Started
+
+- Clone the repository
+- Get bikeshare data as `<filename>.csv` file
+
+### Software Dependencies
+
+- Python
+
+### Example
+
+```
+python bikeshare.py
+```
+
+### Issues
+
+- No Issues known
 
 ## Contribution guidelines
 
@@ -20,8 +34,8 @@ If you welcome contributions, provide guidelines on how others can contribute to
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits to Udacity's teachers :-)
 
 ## Date created
 
-Include the date you created this project and README file.
+* 29.10.2025 created project files and README.md
