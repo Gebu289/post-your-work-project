@@ -30,7 +30,7 @@ python bikeshare.py
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+TBD
 
 ## Credits
 
