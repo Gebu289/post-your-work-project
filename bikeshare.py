@@ -23,6 +23,10 @@ def get_filters():
 
 
     # get user input for month (all, january, february, ... , june)
+    months =['january', 'february', 'march']
+    month = ''
+    while month not in months or month not in ['all', 'All']:
+        month = input("Please choose a month from {}: ".format(months))
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
